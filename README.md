@@ -1,4 +1,1 @@
-ims
-===
-
 Inventory Management System

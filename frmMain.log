@@ -1,0 +1,5 @@
+Line 13: Class ARButtonCtrl.ARButton of control ARButton1 was not a loaded control class.
+Line 19: The property name _ExtentX in ARButton1 is invalid.
+Line 20: The property name _ExtentY in ARButton1 is invalid.
+Line 21: The property name Caption in ARButton1 is invalid.
+Line 23: The property name BackColorOnMouse in ARButton1 is invalid.
